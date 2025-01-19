@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 I'm a mathematics student in my final year. My interest outside programming include teaching maths and learning more about them. A mix of these interests drives me to create projects and develop my programming skills.
 
+{r} [My youtube channel] (www.bit.ly/1EqAdIp](https://www.youtube.com/@delasierramates))
+
 # Projects I have in mind
 
 - *Aplication of numerical methods to solve differential equations.*
