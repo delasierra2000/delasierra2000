@@ -12,17 +12,16 @@ I'm a mathematics student in my final year. My interest outside programming incl
 
 # Projects completed
 
-- *Python implementation of Formal Concept Analysis*
+- *Python implementation of Formal Concept Analysis.*
 - *Solving Earth's orbit with Runge-Kutta in order to animate diurnal motion.*
-- *Solving and animation of partial differential equations related to membrane vibration*
+- *Solving and animation of partial differential equations related to membrane vibration.*
 
 # Projects in development
 
-- *A python implementation for cartography*
-- *A python implementation for fuzzy logic*
+- *A python implementation of cartography.*
+- *A python implementation of fuzzy logic.*
 
 # Ideas
 
 - *Developing an interactive Shiny app related to operations resarch.*
-
-- *Creating a database of a game competition and analyzing the data.*
+- *Sentiment analysis applied to something.*
