@@ -10,13 +10,18 @@ I'm a mathematics student in my final year. My interest outside programming incl
 
 [My youtube channel](https://www.youtube.com/@delasierramates)
 
-# Projects I have in mind
+# Projects completed
 
-- *Aplication of numerical methods to solve differential equations.*
+- *Python implementation of Formal Concept Analysis*
+- *Solving Earth's orbit with Runge-Kutta in order to animate diurnal motion.*
+- *Solving and animation of partial differential equations related to membrane vibration*
 
-- *Creating didactic maths animations and developing interactive desktop applications.*
-  - *High-school level: Tangent line of functions, area under a curve...*
-  - *University level: Motion visualization in positional astronomy...*
+# Projects in development
+
+- *A python implementation for cartography*
+- *A python implementation for fuzzy logic*
+
+# Ideas
 
 - *Developing an interactive Shiny app related to operations resarch.*
 
