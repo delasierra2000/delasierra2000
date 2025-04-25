@@ -10,7 +10,7 @@ I'm a mathematics student in my final year. My interest outside programming incl
 
 [My youtube channel](https://www.youtube.com/@delasierramates)
 
-# Projects completed
+# Completes projects
 
 - [*Python implementation of Formal Concept Analysis.*](https://github.com/delasierra2000/FCA_py_implementation)
 - [*Solving Earth's orbit with Runge-Kutta in order to animate diurnal motion.*](https://github.com/delasierra2000/RK4_diurnal_motion)
